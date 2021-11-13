@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+  </head>
+  <body>
+    <div class="left">
+        <h1 class="title">Equi-distance marking google map</h1>
+        <input type="text" name="source" id="from" placeholder="Origin" /><br>
+        <input type="text" name="destination" id="to" placeholder="Destination" /><br>
+        <input type="number" name="marking distance" id="markingDistance" placeholder="Marking distance (in Meters)" /><br>
+        <button class="markingButton" id="markingButton" onclick="calcRoute();">Find</button><br>
+        <div>
+            <p id="searchInfo"></p>
+        </div>
+
+    </div>
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&libraries=places"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="./index.js"></script>
+  </body>
+</html>
