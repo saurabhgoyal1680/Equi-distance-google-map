@@ -1,0 +1,55 @@
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+    height: 100%;
+    width: 80%;
+    float: right;
+    z-index: -1;
+}
+
+#searchInfo {
+    margin: 10%;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: fantasy;
+}
+
+input{
+    height: 3%;
+    width: 80%;
+    margin: 8%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1%;
+}
+
+.markingButton{
+    position: relative;
+    margin: 9%;
+    margin-top: 10%;
+    height: 3%;
+    width: 82%;
+    padding: 1%;
+
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+    height: 100%;
+    width: 20%;
+    box-shadow: 5px 0px 200px #888888;
+    float: left;
+    background-color: #d4d4d4;
+}
+
+.title {
+    font-family: fantasy;
+    margin: 2%;
+    margin-bottom: 10%;
+}

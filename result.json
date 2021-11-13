@@ -1,0 +1,351 @@
+{
+	"geocoded_waypoints": [{
+		"geocoder_status": "OK",
+		"place_id": "ChIJr6cur5m2bTkRWIDcK9acl30",
+		"types": ["establishment", "jewelry_store", "point_of_interest", "store"]
+	}, {
+		"geocoder_status": "OK",
+		"place_id": "ChIJp2B7jqK2bTkRvki2_thdCeA",
+		"types": ["establishment", "point_of_interest", "tourist_attraction"]
+	}],
+	"routes": [{
+		"bounds": {
+			"south": 26.894420000000004,
+			"west": 75.81507,
+			"north": 26.898970000000002,
+			"east": 75.81614
+		},
+		"copyrights": "Map data ©2021",
+		"legs": [{
+			"distance": {
+				"text": "0.6 km",
+				"value": 578
+			},
+			"duration": {
+				"text": "2 mins",
+				"value": 134
+			},
+			"end_address": "Trimurty Cir, Tilak Nagar, Jaipur, Rajasthan 302004, India",
+			"end_location": {
+				"lat": 26.8989652,
+				"lng": 75.8161355
+			},
+			"start_address": "Birla Mandir, Jawahar Lal Nehru Marg, Tilak Nagar, Jaipur, Rajasthan 302022, India",
+			"start_location": {
+				"lat": 26.8944168,
+				"lng": 75.8159709
+			},
+			"steps": [{
+				"distance": {
+					"text": "73 m",
+					"value": 73
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 17
+				},
+				"end_location": {
+					"lat": 26.8947346,
+					"lng": 75.8153322
+				},
+				"polyline": {
+					"points": "cyccDyxvmM}@~B"
+				},
+				"start_location": {
+					"lat": 26.8944168,
+					"lng": 75.8159709
+				},
+				"travel_mode": "DRIVING",
+				"encoded_lat_lngs": "cyccDyxvmM}@~B",
+				"path": [{
+					"lat": 26.894420000000004,
+					"lng": 75.81597000000001
+				}, {
+					"lat": 26.894730000000003,
+					"lng": 75.81533
+				}],
+				"lat_lngs": [{
+					"lat": 26.894420000000004,
+					"lng": 75.81597000000001
+				}, {
+					"lat": 26.894730000000003,
+					"lng": 75.81533
+				}],
+				"instructions": "Head <b>north-west</b> on <b>Moti Doongri Rd</b>",
+				"maneuver": "",
+				"start_point": {
+					"lat": 26.8944168,
+					"lng": 75.8159709
+				},
+				"end_point": {
+					"lat": 26.8947346,
+					"lng": 75.8153322
+				}
+			}, {
+				"distance": {
+					"text": "0.5 km",
+					"value": 487
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 111
+				},
+				"end_location": {
+					"lat": 26.8988195,
+					"lng": 75.816114
+				},
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "a{ccDytvmMCZGVSC_De@mGgAkHiAw@S"
+				},
+				"start_location": {
+					"lat": 26.8947346,
+					"lng": 75.8153322
+				},
+				"travel_mode": "DRIVING",
+				"encoded_lat_lngs": "a{ccDytvmMCZGVSC_De@mGgAkHiAw@S",
+				"path": [{
+					"lat": 26.894730000000003,
+					"lng": 75.81533
+				}, {
+					"lat": 26.894750000000002,
+					"lng": 75.81519
+				}, {
+					"lat": 26.894790000000004,
+					"lng": 75.81507
+				}, {
+					"lat": 26.894890000000004,
+					"lng": 75.81509000000001
+				}, {
+					"lat": 26.895690000000002,
+					"lng": 75.81528
+				}, {
+					"lat": 26.89704,
+					"lng": 75.81564
+				}, {
+					"lat": 26.89854,
+					"lng": 75.81601
+				}, {
+					"lat": 26.89882,
+					"lng": 75.81611000000001
+				}],
+				"lat_lngs": [{
+					"lat": 26.894730000000003,
+					"lng": 75.81533
+				}, {
+					"lat": 26.894750000000002,
+					"lng": 75.81519
+				}, {
+					"lat": 26.894790000000004,
+					"lng": 75.81507
+				}, {
+					"lat": 26.894890000000004,
+					"lng": 75.81509000000001
+				}, {
+					"lat": 26.895690000000002,
+					"lng": 75.81528
+				}, {
+					"lat": 26.89704,
+					"lng": 75.81564
+				}, {
+					"lat": 26.89854,
+					"lng": 75.81601
+				}, {
+					"lat": 26.89882,
+					"lng": 75.81611000000001
+				}],
+				"instructions": "Turn <b>right</b> onto <b>Jawahar Lal Nehru Marg</b>",
+				"start_point": {
+					"lat": 26.8947346,
+					"lng": 75.8153322
+				},
+				"end_point": {
+					"lat": 26.8988195,
+					"lng": 75.816114
+				}
+			}, {
+				"distance": {
+					"text": "18 m",
+					"value": 18
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 6
+				},
+				"end_location": {
+					"lat": 26.8989652,
+					"lng": 75.8161355
+				},
+				"polyline": {
+					"points": "stdcDuyvmMA??@A?A??@A?A?A?A?A?CACACAAC"
+				},
+				"start_location": {
+					"lat": 26.8988195,
+					"lng": 75.816114
+				},
+				"travel_mode": "DRIVING",
+				"encoded_lat_lngs": "stdcDuyvmMA??@A?A??@A?A?A?A?A?CACACAAC",
+				"path": [{
+					"lat": 26.89882,
+					"lng": 75.81611000000001
+				}, {
+					"lat": 26.898830000000004,
+					"lng": 75.81611000000001
+				}, {
+					"lat": 26.898830000000004,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898840000000003,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898850000000003,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898850000000003,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898860000000003,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898870000000002,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898880000000002,
+					"lng": 75.81609
+				}, {
+					"lat": 26.89889,
+					"lng": 75.81609
+				}, {
+					"lat": 26.8989,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898920000000004,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898940000000003,
+					"lng": 75.81611000000001
+				}, {
+					"lat": 26.898960000000002,
+					"lng": 75.81612000000001
+				}, {
+					"lat": 26.898970000000002,
+					"lng": 75.81614
+				}],
+				"lat_lngs": [{
+					"lat": 26.89882,
+					"lng": 75.81611000000001
+				}, {
+					"lat": 26.898830000000004,
+					"lng": 75.81611000000001
+				}, {
+					"lat": 26.898830000000004,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898840000000003,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898850000000003,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898850000000003,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898860000000003,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898870000000002,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898880000000002,
+					"lng": 75.81609
+				}, {
+					"lat": 26.89889,
+					"lng": 75.81609
+				}, {
+					"lat": 26.8989,
+					"lng": 75.81609
+				}, {
+					"lat": 26.898920000000004,
+					"lng": 75.8161
+				}, {
+					"lat": 26.898940000000003,
+					"lng": 75.81611000000001
+				}, {
+					"lat": 26.898960000000002,
+					"lng": 75.81612000000001
+				}, {
+					"lat": 26.898970000000002,
+					"lng": 75.81614
+				}],
+				"instructions": "Enter <b>Trimurty Cir</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+				"maneuver": "",
+				"start_point": {
+					"lat": 26.8988195,
+					"lng": 75.816114
+				},
+				"end_point": {
+					"lat": 26.8989652,
+					"lng": 75.8161355
+				}
+			}],
+			"traffic_speed_entry": [],
+			"via_waypoint": [],
+			"via_waypoints": []
+		}],
+		"overview_polyline": "cyccDyxvmM}@~BCZGVSCmLmBkHiAw@SA?A@A@G?OI",
+		"summary": "Jawahar Lal Nehru Marg",
+		"warnings": [],
+		"waypoint_order": [],
+		"overview_path": [{
+			"lat": 26.894420000000004,
+			"lng": 75.81597000000001
+		}, {
+			"lat": 26.894730000000003,
+			"lng": 75.81533
+		}, {
+			"lat": 26.894750000000002,
+			"lng": 75.81519
+		}, {
+			"lat": 26.894790000000004,
+			"lng": 75.81507
+		}, {
+			"lat": 26.894890000000004,
+			"lng": 75.81509000000001
+		}, {
+			"lat": 26.89704,
+			"lng": 75.81564
+		}, {
+			"lat": 26.89854,
+			"lng": 75.81601
+		}, {
+			"lat": 26.89882,
+			"lng": 75.81611000000001
+		}, {
+			"lat": 26.898830000000004,
+			"lng": 75.81611000000001
+		}, {
+			"lat": 26.898840000000003,
+			"lng": 75.8161
+		}, {
+			"lat": 26.898850000000003,
+			"lng": 75.81609
+		}, {
+			"lat": 26.89889,
+			"lng": 75.81609
+		}, {
+			"lat": 26.898970000000002,
+			"lng": 75.81614
+		}]
+	}],
+	"status": "OK",
+	"request": {
+		"origin": {
+			"query": "Birla mandir, jaipur"
+		},
+		"destination": {
+			"query": "Shaheed Smarak Trimurty Cir"
+		},
+		"travelMode": "DRIVING",
+		"unitSystem": 0
+	}
+}
